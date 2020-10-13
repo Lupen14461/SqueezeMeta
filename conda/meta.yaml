@@ -40,7 +40,6 @@ requirements:
     - r-doMC
     - r-data.table
     - bioconductor-pathview
-    - tree
 
 build:
   noarch: generic
@@ -63,7 +62,7 @@ about:
           To install this package with conda run:
           \n
           \n
-          `conda create -n SqueezeMeta -c bioconda -c conda-forge -c fpusan squeezemeta`
+          `conda create -n SqueezeMeta -c bioconda -c fpusan squeezemeta`
           \n
           \n
           And activate it with:
